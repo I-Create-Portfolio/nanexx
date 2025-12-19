@@ -4,7 +4,9 @@
   padding: 20px;
   font-family: "Segoe UI", sans-serif;
 }
-
+.more about {
+	background-color: white;
+}
 .faq-title {
   text-align: center;
   font-size: 2rem;
