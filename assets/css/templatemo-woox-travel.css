@@ -76,8 +76,8 @@ header, nav, section, article, aside, footer, hgroup {
 }
 
 html, body {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-weight: 400;
+  font-family: times;
+  font-weight: 500;
   background-color: white;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
