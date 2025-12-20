@@ -1066,7 +1066,7 @@ hr {
   border-top: 2px dashed rgb(240, 18, 10);
 }
 .call-to-action {
-  margin-top: 120px;
+  margin-top: 0px;
   background-image: url(../images/cta-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
