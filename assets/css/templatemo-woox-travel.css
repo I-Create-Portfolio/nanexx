@@ -86,7 +86,7 @@ html, body {
 }
 
 a {
-	color: #11aae6;
+  color: #fff;
   text-decoration: none !important;
 }
 
@@ -213,6 +213,7 @@ section {
   font-weight: 700;
   text-transform: capitalize;
   color: #2a2a2a;
+	
 }
 
 /* 
@@ -401,8 +402,7 @@ Header Style
 .header-area .main-nav .nav li a {
   display: block;
   font-weight: 400;
-  font-size: 15px;
-  text-transform: capitalize;
+  font-size: 16px;
   color: #fff;
   -webkit-transition: all 0.3s ease 0s;
   -moz-transition: all 0.3s ease 0s;
