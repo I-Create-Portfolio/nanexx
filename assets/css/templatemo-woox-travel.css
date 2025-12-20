@@ -120,7 +120,7 @@ Global Styles
 html,
 body {
   background: #ffffff;
-  font-family: 'Poppins', sans-serif;
+  font-family: Times;
 }
 
 ::selection {
