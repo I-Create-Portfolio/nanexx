@@ -946,7 +946,7 @@ Visit Country Style
 .visit-country .item {
   position: relative;
   margin-bottom: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   border-bottom: 1px solid #eee;
 }
 
@@ -1290,8 +1290,8 @@ About Page Style
 }
 
 .weekly-offers {
-  padding-bottom: 120px;
-  margin-top: 120px;
+  padding-bottom: 20px;
+  margin-top: 20px;
   border-bottom: 1px solid #eee;
 }
 
@@ -1422,7 +1422,7 @@ About Page Style
 
 .more-about {
   margin-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 0px;
   border-bottom: 1px solid #eee;
 }
 
@@ -1431,7 +1431,7 @@ About Page Style
 }
 
 .more-about .section-heading {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .more-about .info-item {
